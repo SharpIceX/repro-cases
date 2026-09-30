@@ -1,0 +1,16 @@
+{
+	"name": "nuxt-bug3",
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"dev": "nuxt dev",
+		"build": "nuxt build",
+		"preview": "nuxt preview",
+		"generate": "nuxt generate",
+		"postinstall": "nuxt prepare"
+	},
+	"dependencies": {
+		"@nuxt/kit": "^4.4.2",
+		"nuxt": "^4.4.2"
+	}
+}
