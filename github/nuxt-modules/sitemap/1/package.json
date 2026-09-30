@@ -1,0 +1,15 @@
+{
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"dev": "nuxt dev",
+		"build": "nuxt build",
+		"preview": "nuxt preview",
+		"generate": "nuxt generate",
+		"postinstall": "nuxt prepare"
+	},
+	"dependencies": {
+		"@nuxtjs/sitemap": "^8.3.4",
+		"nuxt": "npm:nuxt-nightly@5.0.0-29775387.11fb88e2"
+	}
+}
