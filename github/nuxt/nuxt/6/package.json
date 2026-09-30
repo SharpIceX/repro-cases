@@ -1,0 +1,15 @@
+{
+	"name": "nuxt-bug5",
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"dev": "nuxt dev",
+		"build": "nuxt build",
+		"preview": "nuxt preview",
+		"generate": "nuxt generate",
+		"postinstall": "nuxt prepare"
+	},
+	"dependencies": {
+		"nuxt": "npm:nuxt-nightly@5.0.0-29769956.67f87d15"
+	}
+}
