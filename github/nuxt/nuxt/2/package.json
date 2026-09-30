@@ -1,0 +1,16 @@
+{
+	"name": "nuxt-module",
+	"type": "module",
+	"scripts": {
+		"postinstall": "nuxt-module-build prepare"
+	},
+	"dependencies": {
+		"@nuxt/kit": "^4.3.1"
+	},
+	"devDependencies": {
+		"@nuxt/module-builder": "^1.0.2",
+		"@types/node": "latest",
+		"nuxt": "^4.3.1",
+		"typescript": "~5.9.3"
+	}
+}
