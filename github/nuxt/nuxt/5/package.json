@@ -1,0 +1,11 @@
+{
+	"name": "nuxt-bug4",
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"dev": "nuxt dev"
+	},
+	"dependencies": {
+		"nuxt": "npm:nuxt-nightly@5x"
+	}
+}
